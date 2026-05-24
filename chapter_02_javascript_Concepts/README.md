@@ -1,3 +1,13 @@
 # Chapter 02 - JavaScript Concepts
 
-*(Content coming soon)*
+## Files
+
+| File | Description |
+|------|-------------|
+| `05_JS_Basic.js` | Basic variable declaration with `var`, logging, and reassignment |
+
+## Run
+
+```bash
+node <filename>.js
+```
