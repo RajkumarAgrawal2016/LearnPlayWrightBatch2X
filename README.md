@@ -16,7 +16,8 @@ This repository contains code examples and exercises for learning Playwright and
 | chapter_08_Switch_Statement | Switch Statement | `59_Switch.js` — `67_IQ7.js` (9 files) |
 | chapter09_user_input | User Input | `68_user_input.js`, `69_node_readline.js`, `70_prompt_sync.js` |
 | chapter_10_loops | Loops | `71_for_loops.js` — `81_iq.js` (11 files) |
-| chapter_11_Arrays | Arrays | `83_Arrays.js` — `91_Transform_Array.js` (9 files) |
+| chapter_11_Arrays | Arrays | `83_Arrays.js` — `94_Concat_Array.js` (12 files) |
+| chapter_12_Functions | Functions | `96_Functions.js` — `103_Arrow_Fn.js` (8 files) |
 
 ## Getting Started
 
