@@ -20,6 +20,7 @@ This repository contains code examples and exercises for learning Playwright and
 | chapter_12_Functions | Functions | `96_Functions.js` — `117_Pure.js` (22 files) |
 | chapter_13_Strings | Strings | `118.Strings.js` — `123_SC.js` (7 files) |
 | chapter_14_Objects | Objects | `124_Objects.js` — `137_Let_Const_Obj.js` (14 files) |
+| chapter_15_2D_Array | 2D Arrays | `138_2D_Array.js` — `142_IQ_Right_Pattern_Py.js` (5 files) |
 | Practice | Practice Exercises | `Arrow fn basic1.js`, `const_let_var_explained.js`, `Identifier.js`, `null_defined.js`, `var_let_const_for_loop.js` |
 
 ## Getting Started
