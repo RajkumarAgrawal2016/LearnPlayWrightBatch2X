@@ -23,7 +23,7 @@ This repository contains code examples and exercises for learning Playwright and
 | chapter_15_2D_Array | 2D Arrays | `138_2D_Array.js` — `142_IQ_Right_Pattern_Py.js` (5 files) |
 | chapter_16_callback | Callbacks | `143_Callback.js` — `150_CB_Hell.js` (8 files) |
 | chapter_17_Promise | Promises | `154_Promise.js` — `160_Promise_IQ.js` (7 files) |
-| chapter_18_AsyncAwait | Async/Await | _(coming soon)_ |
+| chapter_18_AsyncAwait | Async/Await | `161_Async.js`, `162_Async2.js`, `163_PyODom.js`, `164_Async_Ex.js` |
 | chapter_19_PlayWriteBasics | Playwright Basics | _(coming soon)_ |
 | Practice | Practice Exercises | `Arrow fn basic1.js`, `const_let_var_explained.js`, `Identifier.js`, `null_defined.js`, `var_let_const_for_loop.js`, `Practice_IQ.js` |
 
