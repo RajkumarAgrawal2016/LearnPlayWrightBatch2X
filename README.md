@@ -25,6 +25,9 @@ This repository contains code examples and exercises for learning Playwright and
 | chapter_17_Promise | Promises | `154_Promise.js` — `160_Promise_IQ.js` (7 files) |
 | chapter_18_AsyncAwait | Async/Await | `161_Async.js`, `162_Async2.js`, `163_PyODom.js`, `164_Async_Ex.js` |
 | chapter_19_PlayWriteBasics | Playwright Basics | `package.json`, `sdetlive.pdf` |
+| chapter_20_OOPs | OOPs Concepts | `01_EXPORT_IMPORT/`, `02_CLASS_OBJECT/171_Class_Object.js`, `02_CLASS_OBJECT/172_Class_Object.js` |
+| chapter_26_Typescript | TypeScript Basics | `193_TS.js` — `200_IQ.ts` (9 files) |
+| chapter_27_TypwScript_Interface | TypeScript Interfaces | `201_IF.ts` — `204_IF_READONNLY.ts` (4 files) |
 | Practice | Practice Exercises | `Arrow fn basic1.js`, `const_let_var_explained.js`, `Identifier.js`, `null_defined.js`, `var_let_const_for_loop.js`, `Practice_IQ.js` |
 
 ## Getting Started
