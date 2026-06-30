@@ -23,9 +23,10 @@ This repository contains code examples and exercises for learning Playwright and
 | chapter_15_2D_Array | 2D Arrays | `138_2D_Array.js` — `142_IQ_Right_Pattern_Py.js` (5 files) |
 | chapter_16_callback | Callbacks | `143_Callback.js` — `150_CB_Hell.js` (8 files) |
 | chapter_17_Promise | Promises | `154_Promise.js` — `160_Promise_IQ.js` (7 files) |
-| chapter_18_AsyncAwait | Async/Await | `161_Async.js`, `162_Async2.js`, `163_PyODom.js`, `164_Async_Ex.js` |
+| chapter_18_AsyncAwait | Async/Await | `161_Async.js`, `162_Async2.js`, `163_PyODom.js`, `164_Async_Ex.js`, `165_AA_Parallel.js`, `165_AA_Serial.js`, `166_IQ.js` |
 | chapter_19_PlayWriteBasics | Playwright Basics | `package.json`, `sdetlive.pdf` |
-| chapter_20_OOPs | OOPs Concepts | `01_EXPORT_IMPORT/`, `02_CLASS_OBJECT/171_Class_Object.js`, `02_CLASS_OBJECT/172_Class_Object.js` |
+| chapter_20_OOPs | OOPs Concepts | `01_EXPORT_IMPORT/168_Export_Import.js`, `02_CLASS_OBJECT/171_Class_Object.js`, `02_CLASS_OBJECT/172_Class_Object.js` |
+| chapter_21_Classes_Objects | Classes & Objects | `71_Object_Class.js`, `171_Class_Object.js`, `173_Car.js`, `174_Real_Browser.js`, `175_IQ.js`, `176_Private_Public.js`, `177_Statis.js`, `178_Statis.js` |
 | chapter_26_Typescript | TypeScript Basics | `193_TS.js` — `200_IQ.ts` (9 files) |
 | chapter_27_TypwScript_Interface | TypeScript Interfaces | `201_IF.ts` — `204_IF_READONNLY.ts` (4 files) |
 | Practice | Practice Exercises | `Arrow fn basic1.js`, `const_let_var_explained.js`, `Identifier.js`, `null_defined.js`, `var_let_const_for_loop.js`, `Practice_IQ.js` |
