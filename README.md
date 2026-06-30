@@ -27,6 +27,8 @@ This repository contains code examples and exercises for learning Playwright and
 | chapter_19_PlayWriteBasics | Playwright Basics | `package.json`, `sdetlive.pdf` |
 | chapter_20_OOPs | OOPs Concepts | `01_EXPORT_IMPORT/168_Export_Import.js`, `02_CLASS_OBJECT/171_Class_Object.js`, `02_CLASS_OBJECT/172_Class_Object.js` |
 | chapter_21_Classes_Objects | Classes & Objects | `71_Object_Class.js`, `171_Class_Object.js`, `173_Car.js`, `174_Real_Browser.js`, `175_IQ.js`, `176_Private_Public.js`, `177_Statis.js`, `178_Statis.js` |
+| chapter_22_Encapsulation | Encapsulation | `179_Encapsulation.js`, `180_REAL_Example.js`, `181_Ecap_Car.js`, `182_Ecao_Bank.js` |
+| chapter_23_Inheritance | Inheritance | `183_Single_Inheritance.js`, `184_SI_Example.js`, `185_Single_Inheritance_Con.js`, `186_IQ.js`, `187_IQ.js` |
 | chapter_26_Typescript | TypeScript Basics | `193_TS.js` — `200_IQ.ts` (9 files) |
 | chapter_27_TypwScript_Interface | TypeScript Interfaces | `201_IF.ts` — `204_IF_READONNLY.ts` (4 files) |
 | Practice | Practice Exercises | `Arrow fn basic1.js`, `const_let_var_explained.js`, `Identifier.js`, `null_defined.js`, `var_let_const_for_loop.js`, `Practice_IQ.js` |
